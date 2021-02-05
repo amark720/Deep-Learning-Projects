@@ -13,7 +13,7 @@ In this Project we are implementing Convolution Neural Network(CNN) Classifier f
 * Scikit-Learn
 * Pandas
 
-<p align="center"><img src="https://github.com/amark720/Deep-Learning-Projects/blob/main/Cat%20Dog%20Images%20Classifier%20(CNN%20%2B%20Keras)/Image.gif" width="700" height="400"></p>
+<p align="left"><img src="https://github.com/amark720/Deep-Learning-Projects/blob/main/Cat%20Dog%20Images%20Classifier%20(CNN%20%2B%20Keras)/Image.gif" width="600" height="300"></p>
 
 ### Don't forget to ⭐ the repository, if it helped you in anyway.
 
