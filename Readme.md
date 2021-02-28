@@ -8,7 +8,10 @@
 • Datasets are provided in each of the folders above, and the solution to the problem statements as well.<br>
 • Visit each folder to access the Projects in detail.
 
-<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Deep%20Learning%20Projects.png" alt="Landing Page" height="40%" width="60%">
+<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Deep%20Learning%20Projects.png" alt="Landing Page" height="40%" width="60%"> <br>
+
+### Repo Stats:
+[![GitHub](https://img.shields.io/github/followers/amark720?style=social)](https://github.com/amark720)  &ensp;  [![GitHub](https://img.shields.io/github/stars/amark720/Deep-Learning-Projects?style=social)](https://github.com/amark720/Deep-Learning-Projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/amark720/Deep-Learning-Projects?style=social)](https://github.com/amark720/Deep-Learning-Projects)
 
 ### Don't forget to ⭐ the repository, if it helped you in anyway.
 
